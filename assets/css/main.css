@@ -1578,12 +1578,12 @@
 			}
 
 		.wrapper.style2 {
-			background: #23292b;
+			background: #F3F9D2;
 		}
 
 			.wrapper.style2 .title {
-				background: #23292b;
-				color: rgb(255, 255, 255);
+				background: #F3F9D2;
+				color: #2ecebb;
 			}
 
 		.wrapper.style3 {
@@ -1738,7 +1738,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #fbfffc;
+			color: #a3ce2f;
 		}
 
 /* Copyright */
