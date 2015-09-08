@@ -1616,9 +1616,8 @@
 		}
 
 	#footer-wrapper {
-		background: #282b34 url("images/overlay.png");
-		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		background: url("../../images/bgd.jpg") center center;
+		background-size: cover;
 	}
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
@@ -1682,7 +1681,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: #282b34 url("images/overlay.png");
+			background: #445589 url("images/overlay.png");
 			color: #eee;
 		}
 
@@ -1738,7 +1737,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #a3ce2f;
+			color: #ffae72;
 		}
 
 /* Copyright */
